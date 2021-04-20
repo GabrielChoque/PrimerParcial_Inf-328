@@ -1,0 +1,10 @@
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\samsung\documents\visual studio 2015\Projects\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\INFORMATICA\inf-328\programacion\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\INFORMATICA\inf-328\programacion\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\INFORMATICA\inf-328\programacion\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\INFORMATICA\inf-328\programacion\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\INFORMATICA\inf-328\programacion\ComparacionDeLenguajes-master\primerExamenParcial\ejercicio2\c# calculadora\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
